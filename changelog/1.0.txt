@@ -1,0 +1,13 @@
+XCCacheAgent v1.0
+
+🎉 Greetings from XCCacheAgent!
+
+What's New
+
+New Features:
+- Cache workflows: installing, building, and purging cache
+- Dependencies management: adding packages and dependencies to the project
+- View cache visualization to understand project dependencies
+- Dark theme support
+
+For more details, visit: https://github.com/trinhngocthuyen/xccache-agent-public/releases/tag/1.0

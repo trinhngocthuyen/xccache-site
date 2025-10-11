@@ -1,0 +1,12 @@
+XCCacheAgent v1.2
+
+What's New
+
+Bug Fixes:
+- Swift headers (X-Swift.h) not found in some cases
+- Failed to build resource_bundle_accessor.swift in watchOS, tvOS platforms
+- Cache invalidation in case of multi platforms
+- Various UI improvements: fixes for UI blinks, retained failed targets in selection
+- Change triple selection UI (iOS simulator, iOS, macOS, etc.) to cache environment (Simulator, Device)
+
+For more details, visit: https://github.com/trinhngocthuyen/xccache-agent-public/releases/tag/1.2

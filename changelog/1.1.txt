@@ -1,0 +1,14 @@
+XCCacheAgent v1.1
+
+What's New
+
+New Features:
+- Add an option in the project setting view, to allow "continue build after failures"
+- Display contextual errors under the actions
+- When first scanning dependencies during onboarding, users are prompted to advise staging the current changes for safe integration
+
+Bug Fixes:
+- Some package dependencies cannot be resolved, especially for free-from packages (added by drag-and-drop as file references)
+- Build dependencies for multi-platform projects
+
+For more details, visit: https://github.com/trinhngocthuyen/xccache-agent-public/releases/tag/1.1

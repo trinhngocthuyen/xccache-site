@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>XCCacheAgent Releases</title>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>XCCacheAgent v1.2</title>
+      <sparkle:releaseNotesLink>
+      http://localhost:3000/changelog/1.1.txt
+      </sparkle:releaseNotesLink>
+      <pubDate>Mon, 11 Nov 2024 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/trinhngocthuyen/xccache-agent-public/releases/download/1.2/XCCacheAgent.dmg"
+        sparkle:version="1.2"
+        sparkle:shortVersionString="1.2"
+        sparkle:edSignature="baj5MmbtUO9IXuEPAKJMnU2tQPiTclgjl+nd4O+ht9n1uUt43Ccv/ZcLRiQU+QGIq6ygiENI26Q1SP5EqeFVAw=="
+        length="27792678"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
