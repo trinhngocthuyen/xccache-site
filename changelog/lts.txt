@@ -1,0 +1,6 @@
+XCCacheAgent LTS
+
+What's New (of recent builds)
+- Integrate **app update** feature
+
+For more details, visit: https://github.com/trinhngocthuyen/xccache-agent-public/releases/tag/LTS
