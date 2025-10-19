@@ -1,8 +1,14 @@
-<?xml version="1.0" standalone="yes"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' standalone='yes'?>
+<rss version='2.0' xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' xmlns:dc='http://purl.org/dc/elements/1.1/'>
   <channel>
     <title>XCCacheAgent Releases</title>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
+    <item>
+      <title>XCCacheAgent 1.3</title>
+      <pubDate>Sun, 19 Oct 2025 13:34:42 +0800</pubDate>
+      <sparkle:releaseNotesLink>https://xccache.trinhngocthuyen.com/changelog/lts.txt</sparkle:releaseNotesLink>
+      <enclosure url='https://github.com/trinhngocthuyen/xccache-agent-public/releases/download/LTS/XCCacheAgent-1.3-20251019.1324-LTS.dmg' sparkle:version='1.3-20251019.1324-LTS' sparkle:edSignature='Q+YUyCYXt8SqPnsNVAmwA0qN9u906MGW5t47tVI9a6ssXjQ1sad0etM6AFwI+WADA1c5r7RfSwztxnSNYsaICA==' length='28615498'/>
+    </item>
   </channel>
 </rss>
