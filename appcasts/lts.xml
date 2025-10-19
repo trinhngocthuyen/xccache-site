@@ -10,5 +10,11 @@
       <sparkle:releaseNotesLink>https://xccache.trinhngocthuyen.com/changelog/lts.txt</sparkle:releaseNotesLink>
       <enclosure url='https://github.com/trinhngocthuyen/xccache-agent-public/releases/download/LTS/XCCacheAgent-1.3-20251019.1324-LTS.dmg' sparkle:version='1.3-20251019.1324-LTS' sparkle:edSignature='Q+YUyCYXt8SqPnsNVAmwA0qN9u906MGW5t47tVI9a6ssXjQ1sad0etM6AFwI+WADA1c5r7RfSwztxnSNYsaICA==' length='28615498'/>
     </item>
+    <item>
+      <title>XCCacheAgent 1.3</title>
+      <pubDate>Sun, 19 Oct 2025 21:54:16 +0800</pubDate>
+      <sparkle:releaseNotesLink>https://xccache.trinhngocthuyen.com/changelog/lts.txt</sparkle:releaseNotesLink>
+      <enclosure url='https://github.com/trinhngocthuyen/xccache-agent-public/releases/download/LTS/XCCacheAgent-1.3-20251019.2145-LTS.dmg' sparkle:version='1.3-20251019.2145-LTS' sparkle:edSignature='nZZ31h6UbExn+IrECVB17JigZEoS/i/1LQkAHew2y3fCAQs7dVUSarvNHiRkjozojoC1APJrL8MkFzLZtzQXDg==' length='28613097'/>
+    </item>
   </channel>
 </rss>
