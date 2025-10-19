@@ -1,0 +1,6 @@
+XCCacheAgent v1.3
+
+What's New
+
+New Features
+- Adding app update feature

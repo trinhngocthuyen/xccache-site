@@ -6,9 +6,9 @@
     <language>en</language>
     <item>
       <title>XCCacheAgent 1.3</title>
-      <pubDate>Sun, 19 Oct 2025 22:17:44 +0800</pubDate>
+      <pubDate>Sun, 19 Oct 2025 23:10:32 +0800</pubDate>
       <sparkle:releaseNotesLink>https://xccache.trinhngocthuyen.com/changelog/1.3.txt</sparkle:releaseNotesLink>
-      <enclosure url='https://github.com/trinhngocthuyen/xccache-agent-public/releases/download/1.3/XCCacheAgent.dmg' sparkle:version='1.3-20251019.2206' sparkle:edSignature='pJF1NnaFzQwGqTsZO2YCyVDkcEF03uwj1x0Ei/UUiWehzGMPQH/WtQaHa96Wlp7db6fblEQ6Ag5mJc6lFY0zBw==' length='28611261'/>
+      <enclosure url='https://github.com/trinhngocthuyen/xccache-agent-public/releases/download/1.3/XCCacheAgent.dmg' sparkle:version='1.3-20251019.2300' sparkle:edSignature='F35+9vqiw2xxw3E92w4LgRfETQapo2hwxZ6hY9BZX/ffy7ONC0fxMFmCVJuoFTRFi+vhRVK06bH1J1yFHZm7Dw==' length='28610887'/>
     </item>
   </channel>
 </rss>
